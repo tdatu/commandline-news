@@ -1,6 +1,6 @@
 ## Get News
 
-
+![getnews demo](https://raw.githubusercontent.com/tdatu/commandline-news/master/getnews.gif)
 
 Get news is a small shell that fetches news from different sources such as gizmodo, nytime, etc...\
 
